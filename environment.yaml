@@ -43,7 +43,7 @@ dependencies:
       - hydra-optuna-sweeper
       - hydra-colorlog
       - rootutils
-      - transformers
+      - transformers[torch]
       - nltk
       - spacy
       - numpy
